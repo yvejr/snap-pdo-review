@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="97019e9a-e645-4113-96aa-52ef64d453d6" name="snap-pdo-review" url="https://bootcamp-coders.cnm.edu/~yjohnson6/snap-pdo-review">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/yjohnson6/public_html/snap-pdo-review" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
